@@ -5,4 +5,6 @@ https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table
 Several models were done and the highest model (RandomForesetClassifier) acheived an accuarcy of 81.08 % after submiting it in the competition. 
 -This model is found in the file named Decision Tree Classifier & Random Forest Models and the csv file submitted is (Sumbition_1.csv).
 - Submition Current rank #3674
-- Other two sumbitions acheived 80.42% and 80.84%. 
+- Other two sumbitions acheived 80.42% and 80.84%.
+![image](https://github.com/ShadyTarek10/Pump-it-Up-Data-Mining-the-Water-Table/assets/107149955/baf94c6d-babd-4117-b2ed-f010f9e330ce)
+
